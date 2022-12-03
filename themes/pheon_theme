@@ -1,5 +1,5 @@
 background		          = black		default
-frame			              = grey		default
+frame			              = black		default
 window_title		        = white		default
 directory		            = blue		default	bold
 selected_directory	    = white		default	bold

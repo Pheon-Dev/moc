@@ -280,7 +280,7 @@ Theme = pheon_theme
 #
 # Example:    Keymap = my_keymap
 #
-#Keymap =
+Keymap = pheon_keymap
 
 # Use ASCII rather than graphic characters for drawing lines.  This
 # helps on some terminals.
